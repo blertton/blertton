@@ -1,4 +1,5 @@
-![@2x-Blog-Multimodal-Learning-Animation](https://github.com/blertton/Github-Portfolio/assets/86237949/2c11ce77-d597-4d14-b83a-373246ac2147)
+![@2x-Blog-Multimodal-Learning-Animation](https://github.com/blertton/blertton/assets/86237949/07829ad2-d739-443c-b7dc-1c498eee4725)
+
 
 <h1 align="center">Hi 👋, I'm Blerton Krasniqi</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Kosovo</h3>
