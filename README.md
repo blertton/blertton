@@ -1,4 +1,4 @@
-![@2x-Blog-Multimodal-Learning-Animation](https://github.com/blertton/blertton/assets/86237949/07829ad2-d739-443c-b7dc-1c498eee4725)
+
 
 
 <h1 align="center">Hi 👋, I'm Blerton Krasniqi</h1>
